@@ -22,3 +22,5 @@ ron
 glitched-bob
 gloop-bob
 little-man
+dave
+bambi
